@@ -1,0 +1,76 @@
+AbyssSubs Studio — Licencia de software propietario
+Copyright (c) 2026 AbyssStudio. Todos los derechos reservados.
+
+Este software (AbyssSubs Studio, la aplicación, su código, su interfaz, sus recursos y el
+modelo de inteligencia artificial de generación de subtítulos incluido) es propiedad de
+AbyssStudio y está protegido por las leyes de derechos de autor y de propiedad intelectual.
+NO es software de código abierto.
+
+El modelo de inteligencia artificial de generación de efectos de subtítulos fue entrenado con
+proyectos propios del autor y de subtituladores colaboradores, y constituye propiedad
+intelectual exclusiva del autor. Su distribución, extracción, copia o reutilización, total o
+parcial, fuera de esta aplicación, está prohibida.
+
+1. USO. Se concede al usuario que contrató una suscripción activa un derecho personal,
+   intransferible y revocable de instalar y usar la aplicación en una (1) computadora, mientras
+   la suscripción esté vigente y solo para su uso conforme a estos términos.
+
+2. PROHIBICIONES. Sin autorización escrita del autor, queda prohibido:
+   a) copiar, redistribuir, revender, alquilar, prestar o publicar la aplicación o cualquiera
+      de sus partes, incluidos los archivos del modelo de IA;
+   b) descompilar, desensamblar, aplicar ingeniería inversa o intentar extraer el código
+      fuente, el modelo de IA o las claves;
+   c) eludir, desactivar o alterar el sistema de licencias o suscripción;
+   d) usar el software o el modelo de IA para entrenar, crear o mejorar otros modelos o
+      productos.
+
+3. RESERVA DE DERECHOS. Todo derecho no concedido expresamente queda reservado al autor. Esta
+   licencia no transfiere ninguna titularidad sobre el software ni sobre el modelo de IA.
+
+4. SIN GARANTÍA. El software se entrega "TAL CUAL", sin garantías de ningún tipo. El autor no
+   se responsabiliza por daños derivados de su uso.
+
+5. TERMINACIÓN. El incumplimiento de estos términos termina la licencia de forma automática, y
+   el usuario debe desinstalar y dejar de usar el software.
+
+El contenido creado por el usuario (los subtítulos que genere) es del usuario. La marca, el
+nombre "AbyssSubs Studio", el logo, el código y el modelo de IA son del autor.
+
+Contacto: ko-fi.com/sonizzidk
+
+--------------------------------------------------------------------------------
+
+AbyssSubs Studio — Proprietary Software License
+Copyright (c) 2026 AbyssStudio. All rights reserved.
+
+This software (AbyssSubs Studio — the application, its code, interface, assets, and the bundled
+subtitle-generation AI model) is the property of AbyssStudio and is protected by copyright and
+intellectual-property law. It is NOT open-source software.
+
+The subtitle-effects AI model was trained on the author's own projects and those of
+collaborating subtitlers, and is the author's exclusive intellectual property. Distributing,
+extracting, copying or reusing it, in whole or in part, outside this application is prohibited.
+
+1. USE. A user with an active subscription is granted a personal, non-transferable, revocable
+   right to install and use the application on one (1) computer, while the subscription is
+   active and only as permitted by these terms.
+
+2. RESTRICTIONS. Without the author's written permission, you may not: (a) copy, redistribute,
+   resell, rent, lend or publish the application or any part of it, including the AI model
+   files; (b) decompile, disassemble, reverse-engineer, or attempt to extract the source code,
+   the AI model, or keys; (c) bypass, disable or tamper with the license/subscription system;
+   (d) use the software or AI model to train, build or improve other models or products.
+
+3. RESERVATION OF RIGHTS. All rights not expressly granted are reserved by the author. This
+   license transfers no ownership of the software or the AI model.
+
+4. NO WARRANTY. The software is provided "AS IS", without warranty of any kind. The author is
+   not liable for any damages arising from its use.
+
+5. TERMINATION. Breaching these terms automatically ends the license; you must uninstall and
+   stop using the software.
+
+Content created by the user (the subtitles they generate) belongs to the user. The brand, the
+name "AbyssSubs Studio", the logo, the code and the AI model belong to the author.
+
+Contact: ko-fi.com/sonizzidk

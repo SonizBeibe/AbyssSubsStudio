@@ -1,0 +1,2 @@
+b2cfdd9e80f5e59e15689f554e5776f7ec825aaa27b6a06e595f16696ccd32d1 *AbyssSubs-Studio-Actualizacion-v1.0.2.exe
+ccffc48e83b46dce51dcbae975de5457b27718b99e5287d54fe5aa1b25437e66 *AbyssSubs-Studio-Instalador-v1.0.2.exe
